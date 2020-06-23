@@ -1,0 +1,10 @@
+.pp-gallery-filters {
+    margin-bottom: 40px;
+    text-align: center;
+    .pp-gallery-filter {
+        cursor: pointer;
+        display: inline-block;
+        line-height: 1;
+        margin: 0 5px;
+    }
+}

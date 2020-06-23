@@ -1,0 +1,85 @@
+== 1.3.3 ==
+Release date: July 8, 2018
+* Fix: Box link option was not working in info table widget
+* Fix: Navigation and pagination issue in info box carousel, logo carousel, team member carousel and instafeed widgets
+* Added: Fraction pagination option in info box carousel, logo carousel, team member carousel and instafeed widgets
+* Added: Direction option in info box carousel, logo carousel, team member carousel and instafeed widgets
+* Added: Layout option in icon list widget
+
+== 1.3.2 ==
+Release date: June 27, 2018
+* New: Advanced Menu Widget
+* Added: Ribbon option in pricing table widget
+* Fix: Col span width issue in table widget
+* Fix: Label color was not working for radio and checkbox fields
+* Fix: Button styling options were not showing when button text field was kept empty
+* Fix: PHP bug in countdown widget
+
+== 1.3.1 ==
+Release date: May 21, 2018
+* New: Countdown Widget
+* Added: Option to add link to box and icon in info box carousel widget
+* Added: Option to add link to icon in info box widget
+* Added: Options to vertically and horizontally align logos in logo grid widget
+* Added: Alignment options for days and hours in business hours widget
+* Added: Options to add custom days and timings in business hours widget
+* Fix: Icon spacing issue in table widget in editor window
+
+== 1.3.0 ==
+Release date: May 3, 2018
+* New: One Page Navigation Widget
+* New: Info Table Widget
+* New: Toggle Widget
+
+== 1.2.3 ==
+Release date: May 2, 2018
+* Added: Support for dynamic content in supported fields in all the widgets
+* Fix: Animation issue in popup box widget
+
+== 1.2.2.2 ==
+Release date: March 30, 2018
+* Added: Support for shortcodes in text and textarea fields in all the widgets
+
+== 1.2.2.1 ==
+Release date: March 29, 2018
+* Fix: PHP Warning message when using Elementor 2.0 
+
+== 1.2.2 ==
+Release date: March 19, 2018
+* New: Modal Popup Widget
+* New: Info List Widget
+* Enhancement: Added option to hide labels in contact form 7 widget
+* Fix: Input field spacing issue in contact form 7 widget
+
+== 1.2.1 ==
+Release date: January 30, 2018
+* Enhancement: Added Thank you message styling options for Gravity Forms widget
+* Fix: Link option was not working on button field in Promo Box widget
+* Fix: Plugin activation issue on some servers
+* Enhancement: Added option to change icon position for tablets and mobiles in info box
+
+== 1.2.0 ==
+Release date: December 20, 2017
+* New: Google Maps Widget
+* New: WPForms Widget
+* Fix: Responsive issue with Table widget
+* Fix: Padding was not working on textarea field in Gravity Forms widget
+* Fix: One dot navigation was working on all widgets in Info Box carousel widget
+* Fix: One dot navigation was working on all widgets in Team Member carousel widget
+* Fix: White Label for plugin was stopped working
+* Fix: Plugin settings issues in multisite network
+* Fix: License deactivation was not working
+
+== 1.1.0.1 ==
+Release date: December 3, 2017
+* Fix: White Label settings was not being saved sometimes
+
+== 1.1.0 ==
+Release date: November 28, 2017
+* Enhancement: Added Radio Button and Checkbox Styling options for Gravity Forms widget
+* New: Ninja Forms Widget
+* New: Caldera Forms Widget
+
+== 1.0.0 ==
+Release date: November 17, 2017
+* Initial Release
